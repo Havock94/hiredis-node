@@ -1,7 +1,7 @@
 {
   'targets': [
     {
-      'target_name': 'hiredis',
+      'target_name': 'hiredis-new',
       'sources': [
           'src/hiredis.cc'
         , 'src/reader.cc'
